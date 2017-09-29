@@ -2,19 +2,19 @@
 
 
 ## Course Title:
-Web Application Development
+LIS 2360 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(September 29, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Lance Hamic)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we learned about Git and Version Control Systems.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned basic git commands and how repositories work)
+2. (I learned about read me files)
+3. (I learned all about the history of git)
 
