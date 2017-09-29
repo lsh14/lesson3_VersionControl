@@ -13,6 +13,9 @@ LIS 2360 Web Application Development
 ## Project Description:
 (In this assignment we learned about Git and Version Control Systems.)
 
+## View Project
+(https://lsh14.github.io/lesson3_VersionControl/)
+
 ## Lessons Learned in the Assignment:
 1. (I learned basic git commands and how repositories work)
 2. (I learned about read me files)
